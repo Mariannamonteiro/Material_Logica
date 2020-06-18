@@ -1,3 +1,6 @@
+![Lógica](https://img.shields.io/badge/L%C3%B3gica-1.0-yellow)
+![Build Passing](https://img.shields.io/badge/build-passing-yellow)
+
 # Material Logica
 Meu material de Lógica de Programação para UC09 do Senac Vila Prudente 
 
@@ -14,3 +17,4 @@ Meu material de Lógica de Programação para UC09 do Senac Vila Prudente
 ## Fases de Processamento 
 
 ![Imagem](https://user-images.githubusercontent.com/65987332/84964066-7f69ed00-b0e1-11ea-9305-f3d2fc23b108.JPG)
+
